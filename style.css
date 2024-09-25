@@ -11,6 +11,10 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+bodyX {
+  font-family: "Poppins", sans-serif;
+}
+
 html {
   scroll-behavior: smooth;
 }
